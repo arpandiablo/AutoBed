@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "542471438645",
+    "project_id": "abcradle-a47b5",
+    "storage_bucket": "abcradle-a47b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542471438645:android:63b1a04d142b8a34cacc7c",
+        "android_client_info": {
+          "package_name": "com.arpan.abcradle.ababyc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJ4W82T9o2XS63QQ63AlPKA-_aoGN4jdk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
